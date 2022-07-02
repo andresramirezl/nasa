@@ -12,7 +12,7 @@ public class asteroids {
 	private @Getter @Setter String 	name;
 	private @Getter @Setter long 	diameter;
 	private @Getter @Setter int 	speedH;
-	//private @Getter @Setter Date 	date;
+	private @Getter @Setter Date 	date;
 	private @Getter @Setter String 	planet;
 	
 	
